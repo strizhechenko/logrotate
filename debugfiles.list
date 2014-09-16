@@ -1,0 +1,9 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/sbin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/cc
+/usr/lib/debug/usr/sbin/logrotate.debug
+/usr/lib/debug/.build-id/cc/4181ab85f6837dba1d10732c65e1b3d7f5c198
+/usr/lib/debug/.build-id/cc/4181ab85f6837dba1d10732c65e1b3d7f5c198.debug
+/usr/src/debug/logrotate-3.8.6
